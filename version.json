@@ -1,5 +1,5 @@
 {
-  "version": "0.46.4",
-  "notes": "Neu: eigene Themes viel genauer und mit jeder KI, langer Screenshot von Nachrichten, eigene Einträge im Vertretungsplan, E-Mail-Adressen der Lehrkräfte bei den Fächern, Update-Hinweis beim Öffnen. Außerdem schneller und sparsamer.",
+  "version": "0.46.5",
+  "notes": "Neu: Abgaben direkt in Pausa (Foto, Bild oder Datei in den Abgabeordner hochladen), läuft jetzt auch mit leerem Datenvolumen bzw. gedrosseltem Netz und lädt den Vertretungsplan nur, wenn er sich geändert hat. Wichtig: Update geht jetzt wieder über jede alte Version.",
   "url": "https://mukeimm.github.io/pausa-web/download/Pausa.apk"
 }
